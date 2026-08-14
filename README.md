@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Tactical Weapon Pack 2
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Tactical%20Weapon%20Pack%202&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Tactical Weapon Pack 2 Header Banner" />
+
+  <h1>🚀 Tactical Weapon Pack 2</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge" alt="Language: JavaScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/tactical-weapon-pack-2"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Tactical Weapon Pack 2** delivers a fast, responsive, and cross-platform browser experience built with **JavaScript** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `JavaScript`
@@ -32,78 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Tactical Weapon Pack 2 - Play Online for Free
-
-## Overview
-Play Tactical Weapon Pack 2 online for free. Unblocked and available on all devices. Experience the best Tactical Weapon Pack 2 gameplay now!
-
-### Game Details & Guide
-Tactical Weapon Pack 2: A Comprehensive Guide
-=====================================================
-
-Section 1: Game Overview
-
-
-
-Gameplay Overview
-
-
-In Tactical Weapon Pack 2, players take on the role of a military leader, tasked with commanding troops and making strategic decisions to achieve victory. The game features a turn-based system, where each player's turn consists of three phases: Preparation, Action, and Resolution.
-• Preparation Phase: Players can prepare their troops for battle by assigning them to specific tasks or positions.
-• Action Phase: During this phase, players can move troops, use abilities, or issue orders to execute their plans.
-• Resolution Phase: The game resolves any conflicts or changes made during the action phase.
-
-
-How to Play
-
-
-To get started with Tactical Weapon Pack 2, follow these steps:
-• Launch the game and create a new campaign.
-• Choose your character and select their starting position on the battlefield.
-• Begin by preparing your troops for battle, assigning them to specific tasks or positions.
-
-
-Tips and Tricks for Success
-
-
-Here are some valuable tips and tricks to help you succeed in Tactical Weapon Pack 2:
-• Use Your Abilities Wisely: Each character has unique abilities that can be used during the action phase. Make sure to use them strategically to gain an advantage.
-• Manage Your Resources Effectively: Keep track of your resources, such as ammunition and health, and make informed decisions about how to allocate them.
-• Adapt to Changing Circumstances: Be prepared to adjust your strategy as the game unfolds. The situation on the battlefield can change quickly, so stay flexible.
-
-
-Why You Should Play It
-
-
-Tactical Weapon Pack 2 offers a wide range of benefits that make it an excellent choice for players:
-• Depth and Complexity: The game features intricate gameplay mechanics and complex strategic elements, making it appealing to fans of turn-based strategy games.
-• High Replay Value: With multiple campaigns, characters, and endings, you can play through the game multiple times and experience different outcomes each time.
-• Social Interaction: You can play with friends or join online communities to share strategies and compete against others.
-
-Conclusion
-----------
-
-Tactical Weapon Pack 2 is a gripping turn-based strategy game that offers a unique blend of tactics, strategy, and RPG elements. With its engaging gameplay mechanics, deep strategy, and high replay value, it's an excellent choice for players looking for a challenging and rewarding experience.
-
-## Technical Specifications
-- **Technology**: Phaser
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
